@@ -1,0 +1,64 @@
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: black;
+}
+
+footer h3 {
+    color: white;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer li {
+    margin-top: 10px;
+}
+
+footer label {
+    color: white;
+}
+
+.footer4 {
+    width: 25%;
+}
+
+.footerEmailInput {
+    padding: 10px;
+}
+
+footer p {
+    color: white;
+}
+
+.footerImg {
+    width: 85%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.signUpBtn {
+    color: white;
+    border-radius: 15px;
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: red;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.signUpBtn:hover {
+    background-color: white;
+    color: red;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
